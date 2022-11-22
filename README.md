@@ -6,8 +6,7 @@
  * Parameters:
  *    1. -np The number of processes
  *    2. The name of the bmp file to be processed
- *    3. The filename the processed bmp will be written to (will be created
- *       if it doesn't exist)
+ *    3. The filename the processed bmp will be written to (will be created if it doesn't exist)
  *    4. The standard deviation to be used in the gaussian algorithm
  *
  * Build:
